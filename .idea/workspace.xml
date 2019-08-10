@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,27 +17,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java">
+        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="950">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -57,12 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Valentine_Magic_Problem.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Rock_Scissor_Paper_Problem.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Maximum_1s_Square.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Number_Of_BSTs.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Valleys_And_Mountains.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/Valleys_And_Mountains.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/N_Pairs_Of_parenthesis_Correct.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/Chords_In_A_Circle_Problem.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Burst_Balloon_Problem.java" />
@@ -108,6 +96,12 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java" />
+        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java" />
+        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java" />
       </list>
     </option>
   </component>
@@ -122,7 +116,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,12 +132,13 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,13 +159,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Box_Stacking">
-    <configuration name="Box_Stacking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.LIS_Type_Problems.Box_Stacking" />
+  <component name="RunManager" selected="Application.find_first_and_last_occurence_in_array">
+    <configuration name="Diwali_BItmasks_DP_Hacker_Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.DP_BitMasking.Diwali_BItmasks_DP_Hacker_Blocks" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.LIS_Type_Problems.*" />
+          <option name="PATTERN" value="Dynamic_Programming.DP_BitMasking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Building_Bridges_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Building_Bridges_problem" />
+    <configuration name="Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_And_Heaps.Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="HashMaps_And_Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Copy_Paste_KeyBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.KeyBoard_Questions.Copy_Paste_KeyBoard" />
+    <configuration name="Sqrt_Of_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Sqrt_Of_Number" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.KeyBoard_Questions.*" />
+          <option name="PATTERN" value="Divide_And_Conquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gold_MIne_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Cost_Paths.Gold_MIne_Problem" />
+    <configuration name="Water_Jug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Water_Jug" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.Cost_Paths.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Cost_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Cost_Paths.Min_Cost_Path" />
+    <configuration name="find_first_and_last_occurence_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.find_first_and_last_occurence_in_array" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.Cost_Paths.*" />
+          <option name="PATTERN" value="Divide_And_Conquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Box_Stacking" />
-        <item itemvalue="Application.Building_Bridges_problem" />
-        <item itemvalue="Application.Copy_Paste_KeyBoard" />
-        <item itemvalue="Application.Gold_MIne_Problem" />
-        <item itemvalue="Application.Min_Cost_Path" />
+        <item itemvalue="Application.find_first_and_last_occurence_in_array" />
+        <item itemvalue="Application.Sqrt_Of_Number" />
+        <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String" />
+        <item itemvalue="Application.Diwali_BItmasks_DP_Hacker_Blocks" />
+        <item itemvalue="Application.Water_Jug" />
       </list>
     </recent_temporary>
   </component>
@@ -256,9 +250,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,7 +260,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,42 +280,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Min_And_Expression_With_add_and_mul.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Friends_Pairing_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/Number_Of_BSTs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Valentine_Magic_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/Valleys_And_Mountains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/N_Pairs_Of_parenthesis_Correct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Catalan_Number_Problems/Chords_In_A_Circle_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -609,13 +566,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="745">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
         </state>
       </provider>
     </entry>
