@@ -3,6 +3,12 @@ package HashMaps_Sets.Prefix_Sum_Based_Questions;
 import java.util.HashMap;
 import java.util.Scanner;
 // We will use the count all sub-arrays with sum zero approach here.
+
+// LOGIC : sum(i,j) = sum(0,j)-sum(0,i)
+// Hence and subarray sum can be represented as sum(i,j)=sum(0,j)-sum(0,i);
+// hence sum(0,j)-sum(0,i)=k;
+// then sum(0,j)-k = sum(0,i)
+// hence search for sum(0,j)-k in hashmap
 public class Count_Subarrays_With_Equal_Zeroes_and_ones {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
