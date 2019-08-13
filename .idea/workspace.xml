@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Sub_Array_with_Sum_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_zeroes_And_Ones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarray_Sum_Divisible_By_K.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +28,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_zeroes_And_Ones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="266">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarray_Sum_Divisible_By_K.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Maximum_Sum_Subsequence_without_Adjacent.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Paint_House_Problem.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Infinite_Transactions.java" />
@@ -160,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Sub_Array_with_Sum_K.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_zeroes_And_Ones.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarray_Sum_Divisible_By_K.java" />
       </list>
     </option>
   </component>
@@ -229,9 +235,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Longest_Substring_With_Equal_zeroes_And_Ones">
-    <configuration name="Count_All_Subarrays_With_Sum_Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_All_Subarrays_With_Sum_Zero" />
+  <component name="RunManager" selected="Application.Count_Subarray_Sum_Divisible_By_K">
+    <configuration name="Count_Subarray_Sum_Divisible_By_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_Subarray_Sum_Divisible_By_K" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -297,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Subarray_Sum_Divisible_By_K" />
         <item itemvalue="Application.Longest_Substring_With_Equal_zeroes_And_Ones" />
         <item itemvalue="Application.Longest_Sub_Array_with_Sum_K" />
         <item itemvalue="Application.Count_Subarrays_with_Sum_K_for_Binary_Array" />
         <item itemvalue="Application.Count_Subarrays_With_Equal_Zeroes_and_ones" />
-        <item itemvalue="Application.Count_All_Subarrays_With_Sum_Zero" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +328,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,7 +337,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,7 +357,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Cool_Down_Period.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/MatrixChainMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -661,16 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Sub_Array_with_Sum_K.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -683,8 +678,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_zeroes_And_Ones.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarray_Sum_Divisible_By_K.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
