@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="" />
+    <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,60 +16,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Friends_Pairing_Problem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/HighWay_Bill_Board_Problem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/K_Ordered_LCS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java">
+        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="321">
+              <caret line="38" column="78" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -86,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Infinite_Transactions.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Only_One_Transaction.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_Atmost_Two_Transactions.java" />
@@ -98,7 +55,6 @@
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Building_Bridges_problem.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/LIS_Type_Problems/Box_Stacking.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
@@ -137,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_zeroes_And_Ones.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarray_Sum_Divisible_By_K.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java" />
       </list>
     </option>
   </component>
@@ -168,14 +126,7 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Building_Bridges_problem.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Stacks_And_Queues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Longest_Arithematic_Progression">
+  <component name="RunManager" selected="Application.Infix_To_Postfix">
     <configuration name="Count_Palindromic_subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Count_Palindromic_subsequences" />
       <module name="CodingBlocks" />
@@ -233,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Arithematic_Progression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Longest_Arithematic_Progression" />
+    <configuration name="Infix_To_Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Infix_To_Postfix" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Stacks_And_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Sub_Array_with_Sum_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Longest_Sub_Array_with_Sum_K" />
+    <configuration name="Longest_Arithematic_Progression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Longest_Arithematic_Progression" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Infix_To_Postfix" />
         <item itemvalue="Application.Longest_Arithematic_Progression" />
         <item itemvalue="Application.Count_Palindromic_subsequences" />
         <item itemvalue="Application.Longest_Substring_With_Equal_zeroes_And_Ones" />
         <item itemvalue="Application.Count_Subarray_Sum_Divisible_By_K" />
-        <item itemvalue="Application.Longest_Sub_Array_with_Sum_K" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +249,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -307,12 +258,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -327,7 +278,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/LIS_Type_Problems/Box_Stacking.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/KeyBoard_Questions/Copy_Paste_KeyBoard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -608,20 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Friends_Pairing_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -643,10 +579,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="38" column="78" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
