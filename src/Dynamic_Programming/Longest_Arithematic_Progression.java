@@ -5,39 +5,38 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Longest_Arithematic_Progression {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main (String[] args) {
+        Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         while(t-->0){
-            int n=sc.nextInt();
-            int arr[]=new int[n];
-            for(int i=0;i<n;i++){
-                arr[i]=sc.nextInt();
+            int N=sc.nextInt();
+            int A[]=new int[N];
+            for(int i=0;i<N;i++){
+                A[i]=sc.nextInt();
             }
-            HashMap<Integer,Integer> dp[]=new HashMap[n];
-            for(int i=0;i<n;i++){
+            HashMap<Integer,Integer> dp[]=new HashMap[N];
+            for(int i=0;i<N;i++){
                 dp[i]=new HashMap<>();
             }
-            for(int i=1;i<n;i++){
+            int max=0;
+            for(int i=1;i<N;i++){
                 for(int j=i-1;j>=0;j--){
-                    int d=arr[i]-arr[j];
-                    if(dp[j].containsKey(d)){
-                        if(dp[i].containsKey(d) && dp[i].get(d)>dp[j].get(d)){
-                            continue;
-                        }else{
+                    int d=A[i]-A[j];
+                    if(!dp[i].containsKey(d)){
+                        if(dp[j].containsKey(d)){
                             dp[i].put(d,dp[j].get(d)+1);
-                        }
-                    }else{
-                        if(!dp[i].containsKey(d)){
+                        }else{
                             dp[i].put(d,1);
                         }
+                    }else{
+                        if(dp[j].containsKey(d)){
+                            int c=dp[j].get(d)+1;
+                            if(c>dp[i].get(d)){
+                                dp[i].put(d,c);
+                            }
+                        }
                     }
-                }
-            }
-            int max=0;
-            for(int i=0;i<n;i++){
-                for(Map.Entry in:dp[i].entrySet()){
-                    max=Math.max(max,(int)in.getValue());
+                    max=Math.max(dp[i].get(d),max);
                 }
             }
             System.out.println(max+1);
