@@ -16,7 +16,7 @@ public class Count_Palindromic_subsequences {
             return dp[s][e];
         }
         if(str.charAt(s)==str.charAt(e)){
-            return dp[s][e]=1+helper(str,s+1,e,dp)+helper(str,s,e-1,dp);
+            return dp[s][e]=1+helper(str,s+1,e,dp)+helper(str,s,e-1,dp)-helper(str,s+1,e-1,dp);
         }
         return dp[s][e]=helper(str,s+1,e,dp)+helper(str,s,e-1,dp)-helper(str,s+1,e-1,dp);
     }
