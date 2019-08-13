@@ -1,7 +1,6 @@
 package Dynamic_Programming;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class Longest_Arithematic_Progression {
