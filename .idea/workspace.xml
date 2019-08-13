@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Knight_Chess_Board_Probability_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Find_Subarray_With_Given_Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Find_Subarray_With_Given_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stacks_And_Queues/print_binary_numbers_from_1_to_N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/print_binary_numbers_from_1_to_N.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,27 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Remove_Adjacent_Duplicates_From_String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Print_Binary_Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/print_binary_numbers_from_1_to_N.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,11 +87,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="399">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,11 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/MIn_Insertions_To_Make_String_Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Increasing_Subsequence.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Min_Deletions_To_sort_Array.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Russian_Doll_Problem_LIS.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Word_Break_Problem.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Alternate_Sequence.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/HighWay_Bill_Board_Problem.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Binary_Strings_With_no_consecutive_Zeroes.java" />
@@ -188,6 +196,11 @@
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Find_Subarray_With_Given_Sum.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Find_Subarray_With_Given_Product.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_Divisible_By_K.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equals_Zeroes_and_ones.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" />
       </list>
     </option>
   </component>
@@ -257,9 +270,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Count_Subarrays_With_Sum_K">
+  <component name="RunManager" selected="Application.Count_Subarrays_with_Sum_K_for_Binary_Array">
+    <configuration name="Count_All_Subarrays_With_Sum_Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_All_Subarrays_With_Sum_Zero" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_Subarrays_With_Equal_Zeroes_and_ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_Subarrays_With_Equal_Zeroes_and_ones" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Count_Subarrays_With_Sum_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_Subarrays_With_Sum_K" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_Subarrays_with_Sum_K_for_Binary_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_Subarrays_with_Sum_K_for_Binary_Array" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -284,52 +336,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Subarray_With_Given_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Find_Subarray_With_Given_Sum" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Knight_Chess_Board_Probability_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Knight_Chess_Board_Probability_Problem" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Longest_K_unique_characters_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Longest_K_unique_characters_substring" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Subarrays_with_Sum_K_for_Binary_Array" />
+        <item itemvalue="Application.Count_Subarrays_With_Equal_Zeroes_and_ones" />
+        <item itemvalue="Application.Count_All_Subarrays_With_Sum_Zero" />
         <item itemvalue="Application.Count_Subarrays_With_Sum_K" />
         <item itemvalue="Application.Find_Subarray_With_Given_Product" />
-        <item itemvalue="Application.Find_Subarray_With_Given_Sum" />
-        <item itemvalue="Application.Longest_K_unique_characters_substring" />
-        <item itemvalue="Application.Knight_Chess_Board_Probability_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +363,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,7 +372,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,34 +392,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Alternate_Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Word_Break_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Maximum_Sum_Subsequence_without_Adjacent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Paint_House_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Substrings_Of_Nature_a_n_b_n_c_n.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -688,10 +673,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_Divisible_By_K.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="399">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
