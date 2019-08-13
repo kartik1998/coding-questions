@@ -1,6 +1,4 @@
 package Stacks_And_Queues;
-
-import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -19,6 +17,7 @@ public class print_binary_numbers_from_1_to_N {
                 q.add(s+"0");
                 q.add(s+"1");
             }
+
             System.out.println();
         }
     }
