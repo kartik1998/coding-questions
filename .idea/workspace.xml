@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,34 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1159">
-              <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
+        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,13 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java">
+        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/First_non_repeating_character_in_a_stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -80,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Inversion_Count.java" />
@@ -131,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java" />
         <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Sort_The_Stack.java" />
       </list>
     </option>
   </component>
@@ -193,13 +166,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Maximum_Rectangular_Area_histogram">
-    <configuration name="Check_If_Given_Sequence_Is_In_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Check_If_Given_Sequence_Is_In_AP" />
+  <component name="RunManager" selected="Application.First_non_repeating_character_in_a_stream">
+    <configuration name="Asteroids_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Asteroids_Problem" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.*" />
+          <option name="PATTERN" value="Stacks_And_Queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First_non_repeating_character_in_a_stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.First_non_repeating_character_in_a_stream" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stacks_And_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,19 +199,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stacks_And_Queues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.First_non_repeating_character_in_a_stream" />
+        <item itemvalue="Application.Asteroids_Problem" />
         <item itemvalue="Application.Maximum_Rectangular_Area_histogram" />
         <item itemvalue="Application.Smallest_distinct_window" />
         <item itemvalue="Application.Smallest_window_in_a_string_containing_all_the_characters_of_another_string" />
-        <item itemvalue="Application.Check_If_Given_Sequence_Is_In_AP" />
-        <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +268,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,12 +277,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -324,18 +297,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Box_Stacking_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Water_Jug_Problem.java" />
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Earth.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -646,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -678,11 +629,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+        <state relative-caret-position="399">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Sort_The_Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/First_non_repeating_character_in_a_stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
