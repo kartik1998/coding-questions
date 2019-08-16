@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,12 +18,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="38" column="78" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,17 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Infinite_Transactions.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Only_One_Transaction.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_Atmost_Two_Transactions.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_Atmost_K_Transactions.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Cool_Down_Period.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Cost_Paths/Min_Cost_Path.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Cost_Paths/Gold_MIne_Problem.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/KeyBoard_Questions/Copy_Paste_KeyBoard.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Building_Bridges_problem.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/LIS_Type_Problems/Box_Stacking.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
@@ -95,6 +104,17 @@
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" />
         <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Prefix.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game/Last_Turn_Winner_N_Coin_Game.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Last_Turn_Winner_N_Coin_Game.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Losers.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Losers_Problem.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Winners_Problem.java" />
+        <option value="$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
       </list>
     </option>
   </component>
@@ -126,7 +146,7 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Stacks_And_Queues" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,13 +177,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Infix_To_Postfix">
-    <configuration name="Count_Palindromic_subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Count_Palindromic_subsequences" />
+  <component name="RunManager" selected="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String">
+    <configuration name="Check_If_Given_Sequence_Is_In_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Check_If_Given_Sequence_Is_In_AP" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Subarray_Sum_Divisible_By_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Count_Subarray_Sum_Divisible_By_K" />
+    <configuration name="Game_Of_Nim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game_Theory.Game_Of_Nim" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="PATTERN" value="Game_Theory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Infix_To_Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Infix_To_Postfix" />
+    <configuration name="Infix_To_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Infix_To_Prefix" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -197,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Arithematic_Progression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Longest_Arithematic_Progression" />
+    <configuration name="Last_Turn_Winner_N_Coin_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game_Theory.Finders_Keepers_Game.Last_Turn_Winner_N_Coin_Game" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Game_Theory.Finders_Keepers_Game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Substring_With_Equal_zeroes_And_Ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Prefix_Sum_Based_Questions.Longest_Substring_With_Equal_zeroes_And_Ones" />
+    <configuration name="Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMaps_Sets.Prefix_Sum_Based_Questions.*" />
+          <option name="PATTERN" value="HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Infix_To_Postfix" />
-        <item itemvalue="Application.Longest_Arithematic_Progression" />
-        <item itemvalue="Application.Count_Palindromic_subsequences" />
-        <item itemvalue="Application.Longest_Substring_With_Equal_zeroes_And_Ones" />
-        <item itemvalue="Application.Count_Subarray_Sum_Divisible_By_K" />
+        <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
+        <item itemvalue="Application.Check_If_Given_Sequence_Is_In_AP" />
+        <item itemvalue="Application.Game_Of_Nim" />
+        <item itemvalue="Application.Last_Turn_Winner_N_Coin_Game" />
+        <item itemvalue="Application.Infix_To_Prefix" />
       </list>
     </recent_temporary>
   </component>
@@ -248,8 +268,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,7 +279,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -278,41 +299,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/KeyBoard_Questions/Copy_Paste_KeyBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Increasing_Subsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java" />
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java" />
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Inversion_Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -603,10 +589,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Prefix.java" />
     <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="38" column="78" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
+        <state relative-caret-position="152">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Keepers_Losers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Keepers_Winners_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
