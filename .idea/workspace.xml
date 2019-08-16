@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="285">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,8 +111,8 @@
         <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Losers_Problem.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Winners_Problem.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" />
       </list>
     </option>
   </component>
@@ -177,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String">
+  <component name="RunManager" selected="Application.Check_If_Given_Sequence_Is_In_AP">
     <configuration name="Check_If_Given_Sequence_Is_In_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Check_If_Given_Sequence_Is_In_AP" />
       <module name="CodingBlocks" />
@@ -245,8 +243,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
         <item itemvalue="Application.Check_If_Given_Sequence_Is_In_AP" />
+        <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
         <item itemvalue="Application.Game_Of_Nim" />
         <item itemvalue="Application.Last_Turn_Winner_N_Coin_Game" />
         <item itemvalue="Application.Infix_To_Prefix" />
@@ -266,11 +264,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,12 +286,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -647,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="285">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
