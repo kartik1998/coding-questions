@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +20,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="1159">
+              <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="320">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Graphs/Bi_Partite_Graph.java" />
-        <option value="$PROJECT_DIR$/src/Graphs/Water_Jug.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java" />
@@ -74,7 +68,6 @@
         <option value="$PROJECT_DIR$/src/Graphs/Water_Jug_Problem.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Earth/Dhoom_4.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Min_Window_Substring_Containing_All_Characters_Of_Another_Substring.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Count_number_of_substrings_with_K_distinct_Characters.java" />
         <option value="$PROJECT_DIR$/src/Stacks_And_Queues.java" />
@@ -113,6 +106,9 @@
         <option value="$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java" />
+        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java" />
       </list>
     </option>
   </component>
@@ -175,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Check_If_Given_Sequence_Is_In_AP">
+  <component name="RunManager" selected="Application.Smallest_distinct_window">
     <configuration name="Check_If_Given_Sequence_Is_In_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Check_If_Given_Sequence_Is_In_AP" />
       <module name="CodingBlocks" />
@@ -202,32 +198,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Infix_To_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Infix_To_Prefix" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stacks_And_Queues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Last_Turn_Winner_N_Coin_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Game_Theory.Finders_Keepers_Game.Last_Turn_Winner_N_Coin_Game" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Game_Theory.Finders_Keepers_Game.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
       <module name="CodingBlocks" />
@@ -241,13 +211,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Smallest_distinct_window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Smallest_distinct_window" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMaps_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smallest_window_in_a_string_containing_all_the_characters_of_another_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Smallest_window_in_a_string_containing_all_the_characters_of_another_string" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMaps_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Smallest_distinct_window" />
+        <item itemvalue="Application.Smallest_window_in_a_string_containing_all_the_characters_of_another_string" />
         <item itemvalue="Application.Check_If_Given_Sequence_Is_In_AP" />
         <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
         <item itemvalue="Application.Game_Of_Nim" />
-        <item itemvalue="Application.Last_Turn_Winner_N_Coin_Game" />
-        <item itemvalue="Application.Infix_To_Prefix" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +282,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -306,13 +302,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/find_first_and_last_occurence_in_array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -357,16 +346,6 @@
     <entry file="file://$PROJECT_DIR$/src/HashMaps.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Min_Window_Substring_Containing_All_Characters_Of_Another_Substring.java" />
     <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues.java" />
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Remove_Adjacent_Duplicates_From_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -628,20 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -654,8 +619,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="122">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Game_Of_Nim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
