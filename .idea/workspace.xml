@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +29,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="360">
               <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Diwali_BItmasks_DP_Hacker_Blocks.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/DP_BitMasking/Travelling_Salesman_Problem.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_And_Heaps/Smallest_Window_In_A_String_Containing_All_Characters_OF_Another_String.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java" />
@@ -109,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Distinct_Window.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_window_in_a_string_containing_all_the_characters_of_another_string.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java" />
       </list>
     </option>
   </component>
@@ -140,7 +162,7 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
+              <item name="Stacks_And_Queues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Smallest_distinct_window">
+  <component name="RunManager" selected="Application.Maximum_Rectangular_Area_histogram">
     <configuration name="Check_If_Given_Sequence_Is_In_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps_Sets.Check_If_Given_Sequence_Is_In_AP" />
       <module name="CodingBlocks" />
@@ -185,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game_Of_Nim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Game_Theory.Game_Of_Nim" />
+    <configuration name="Maximum_Rectangular_Area_histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Maximum_Rectangular_Area_histogram" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Game_Theory.*" />
+          <option name="PATTERN" value="Stacks_And_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Rectangular_Area_histogram" />
         <item itemvalue="Application.Smallest_distinct_window" />
         <item itemvalue="Application.Smallest_window_in_a_string_containing_all_the_characters_of_another_string" />
         <item itemvalue="Application.Check_If_Given_Sequence_Is_In_AP" />
         <item itemvalue="Application.Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String" />
-        <item itemvalue="Application.Game_Of_Nim" />
       </list>
     </recent_temporary>
   </component>
@@ -302,13 +324,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Sqrt_Of_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Box_Stacking_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -376,16 +391,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_K_unique_characters_substring.java" />
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Find_Subarray_With_Given_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -653,8 +658,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="360">
           <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Maximum_Rectangular_Area_histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
