@@ -45,11 +45,9 @@ public class Aggressive_Cows {
             while(s<=e){
                 int mid=(s+e)/2;
                 if(check(A,cows,mid)){
-                    System.out.println("true");
                     ans=Math.max(ans,mid);
                     s=mid+1;
                 }else{
-                    System.out.println("false");
                     e=mid-1;
                 }
             }
