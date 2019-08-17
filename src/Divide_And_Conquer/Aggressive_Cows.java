@@ -5,44 +5,51 @@ import java.util.Scanner;
 import java.lang.*;
 
 public class Aggressive_Cows {
-    public static boolean check(long cows,int mid,int x[]){
-        cows--;
-        if(cows==0){
-            return true;
-        }
+    public static boolean check(int A[],int cows,int d){
+        int count=1;
         int j=0;
-        for(int i=1;i<x.length;i++){
-            if(x[i]-x[j]>=mid){
+        for(int i=1;i<A.length;i++){
+            if(A[i]-A[j]>=d){
+                count++;
                 j=i;
-                cows--;
-                if(cows==0){
-                    return true;
-                }
+            }
+            if(count==cows){
+                return true;
             }
         }
         return false;
     }
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int t=sc.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int t=0,n=0,cows=0;
+        if(sc.hasNext()){
+            t=sc.nextInt();
+        }
         while(t-->0){
-            int n=sc.nextInt();
-            int cows=sc.nextInt();
-            int x[]=new int[n];
-            for(int i=0;i<n;i++){
-                x[i]=sc.nextInt();
+            if(sc.hasNext()){
+                n=sc.nextInt();
             }
-            Arrays.sort(x);
+            if(sc.hasNext()){
+                cows=sc.nextInt();
+            }
+            int A[]=new int[n];
+            for(int i=0;i<n;i++){
+                if(sc.hasNext()) {
+                    A[i] = sc.nextInt();
+                }
+            }
+            Arrays.sort(A);
             int s=0;
-            int e=x.length-1;
-            long ans=-1;
+            int e=A[n-1]-A[0];
+            int ans=-1;
             while(s<=e){
                 int mid=(s+e)/2;
-                long k=cows;
-                if(check(k,mid,x)){
-                    ans=Math.max(ans,k);
+                if(check(A,cows,mid)){
+                    System.out.println("true");
+                    ans=Math.max(ans,mid);
                     s=mid+1;
                 }else{
+                    System.out.println("false");
                     e=mid-1;
                 }
             }
