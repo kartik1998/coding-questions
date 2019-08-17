@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Egg_Dropping_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Wild_Card_Pattern_Matching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Egg_Dropping_Problem.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Wild_Card_Pattern_Matching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="266">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -41,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Box_Stacking_Problem.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Water_Jug_Problem.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Earth/Dhoom_4.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Min_Window_Substring_Containing_All_Characters_Of_Another_Substring.java" />
@@ -92,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/Stacks_And_Queues/First_non_repeating_character_in_a_stream.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Diwali_Bitmasks_hacker_blocks.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Egg_Dropping_Problem.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Wild_Card_Pattern_Matching.java" />
       </list>
     </option>
   </component>
@@ -154,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Egg_Dropping_Problem">
+  <component name="RunManager" selected="Application.Wild_Card_Pattern_Matching">
     <configuration name="Asteroids_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Asteroids_Problem" />
       <module name="CodingBlocks" />
@@ -207,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Rectangular_Area_histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.Maximum_Rectangular_Area_histogram" />
+    <configuration name="Wild_Card_Pattern_Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Wild_Card_Pattern_Matching" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks_And_Queues.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wild_Card_Pattern_Matching" />
         <item itemvalue="Application.Egg_Dropping_Problem" />
         <item itemvalue="Application.Diwali_Bitmasks_hacker_blocks" />
         <item itemvalue="Application.First_non_repeating_character_in_a_stream" />
         <item itemvalue="Application.Asteroids_Problem" />
-        <item itemvalue="Application.Maximum_Rectangular_Area_histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +256,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,12 +265,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -285,13 +285,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_Atmost_Two_Transactions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Earth/Graphs/Dhoom_4.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMaps.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Min_Window_Substring_Containing_All_Characters_Of_Another_Substring.java" />
@@ -624,8 +617,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Egg_Dropping_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="456">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Wild_Card_Pattern_Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
