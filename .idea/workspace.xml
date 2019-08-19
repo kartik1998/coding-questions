@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +29,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -74,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equals_Zeroes_and_ones.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_Number_Of_Zeroes_And_Ones.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" />
@@ -125,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Hasan_And_Trip.java" />
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java" />
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Angry_Children.java" />
+        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java" />
       </list>
     </option>
   </component>
@@ -156,7 +177,14 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Coding_Ninjas" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
+              <item name="Prefix_Sum_Based_Questions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hasan_And_Trip">
+  <component name="RunManager" selected="Application.Book_Allocation">
     <configuration name="Adjacent_Bit_Counts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coding_Ninjas.Adjacent_Bit_Counts" />
       <module name="CodingBlocks" />
@@ -201,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hasan_And_Trip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Ninjas.Hasan_And_Trip" />
+    <configuration name="Book_Allocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Book_Allocation" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Ninjas.*" />
+          <option name="PATTERN" value="Divide_And_Conquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Painters_Partition_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Painters_Partition_Problem" />
+    <configuration name="Hasan_And_Trip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Ninjas.Hasan_And_Trip" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Divide_And_Conquer.*" />
+          <option name="PATTERN" value="Coding_Ninjas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Book_Allocation" />
         <item itemvalue="Application.Hasan_And_Trip" />
         <item itemvalue="Application.nnsd" />
         <item itemvalue="Application.Roy_And_Coin_Boxes" />
         <item itemvalue="Application.Adjacent_Bit_Counts" />
-        <item itemvalue="Application.Painters_Partition_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +326,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -318,20 +346,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/All_Combination_equal_to_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/All_Permutation_equal_to_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Boolean_Parenthesization.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -681,6 +695,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
