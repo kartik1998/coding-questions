@@ -30,7 +30,7 @@ public class Hasan_And_Trip {
         DecimalFormat df = new DecimalFormat("#.######");
         Double dp[][]=new Double[n+1][n+1];
         double ans=helper(A,1,0,dp)+A[0][2];
-        System.out.println(df.format(ans));
+        System.out.format("%.6f",ans);
 
     }
 }
