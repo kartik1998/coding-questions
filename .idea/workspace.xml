@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellanous/Number_Following_a_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,63 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Hasan_And_Trip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
+        <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellanous/Number_Following_a_Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Adjacent_Bit_Counts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="371">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,9 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Substring_With_Equal_Number_Of_Zeroes_And_Ones.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java" />
-        <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Equal_Zeroes_and_ones.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_All_Subarrays_With_Sum_Zero.java" />
         <option value="$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Longest_Sub_Array_with_Sum_K.java" />
@@ -146,11 +92,14 @@
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java" />
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Angry_Children.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java" />
+        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/bakc.java" />
+        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellaneous.java" />
+        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellanous/Number_Following_a_Pattern.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,8 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,19 +124,14 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMaps_Sets" type="462c0819:PsiDirectoryNode" />
-              <item name="Prefix_Sum_Based_Questions" type="462c0819:PsiDirectoryNode" />
+              <item name="Geeks_For_Geeks_Miscellanous" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,20 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Book_Allocation">
-    <configuration name="Adjacent_Bit_Counts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Ninjas.Adjacent_Bit_Counts" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coding_Ninjas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Number_Following_a_Pattern">
     <configuration name="Book_Allocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Book_Allocation" />
       <module name="CodingBlocks" />
@@ -255,12 +184,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Roy_And_Coin_Boxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Ninjas.Roy_And_Coin_Boxes" />
+    <configuration name="Number_Following_a_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Miscellanous.Number_Following_a_Pattern" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Ninjas.*" />
+          <option name="PATTERN" value="Geeks_For_Geeks_Miscellanous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bakc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.bakc" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stacks_And_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_Following_a_Pattern" />
+        <item itemvalue="Application.bakc" />
         <item itemvalue="Application.Book_Allocation" />
         <item itemvalue="Application.Hasan_And_Trip" />
         <item itemvalue="Application.nnsd" />
-        <item itemvalue="Application.Roy_And_Coin_Boxes" />
-        <item itemvalue="Application.Adjacent_Bit_Counts" />
       </list>
     </recent_temporary>
   </component>
@@ -314,10 +256,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,12 +268,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28045326" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -346,37 +288,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Boolean_Parenthesization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Building_Bridges_problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Binary_Strings_With_no_consecutive_Zeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/HighWay_Bill_Board_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/K_Ordered_LCS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -495,16 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/First_non_repeating_character_in_a_stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -522,13 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/One_Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/One_Count.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Wild_Card_Pattern_Matching.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -581,13 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/merge_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/merge_Sort.java" />
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Quick_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
@@ -612,13 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Dynamic_Programming_CP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Dynamic_Programming_CP.java" />
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Painters_Partition_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -626,17 +509,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cook_off/Solution_1.java">
+    <entry file="file://$PROJECT_DIR$/src/cook_off/Solution_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Roy_And_Coin_Boxes.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="19">
+          <caret line="2519" column="23" selection-start-line="2519" selection-start-column="23" selection-end-line="2519" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Roy_And_Coin_Boxes.java">
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/nnsd.java" />
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Hasan_And_Trip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="494">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Angry_Children.java" />
+    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_with_Sum_K_for_Binary_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -650,68 +568,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/bakc.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2519" column="23" selection-start-line="2519" selection-start-column="23" selection-end-line="2519" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/nnsd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Hasan_And_Trip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="569">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Angry_Children.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Alyona_And_SpreadSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="471">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Prefix_Sum_Based_Questions/Count_Subarrays_With_Sum_K.java">
+    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellaneous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellanous/Number_Following_a_Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
