@@ -1,4 +1,4 @@
-package Geeks_For_Geeks_Miscellanous;
+package Geeks_For_Geeks_Important;
 
 import java.util.Scanner;
 import java.util.Stack;
