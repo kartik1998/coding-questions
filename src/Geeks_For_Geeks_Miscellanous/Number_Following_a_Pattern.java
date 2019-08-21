@@ -2,6 +2,7 @@ package Geeks_For_Geeks_Miscellanous;
 
 import java.util.Scanner;
 import java.util.Stack;
+/* https://practice.geeksforgeeks.org/problems/number-following-a-pattern/0 */
 
 public class Number_Following_a_Pattern {
     public static void main(String[] args) {
