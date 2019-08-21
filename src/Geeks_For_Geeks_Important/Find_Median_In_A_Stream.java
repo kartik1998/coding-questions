@@ -3,7 +3,8 @@ package Geeks_For_Geeks_Important;
 import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
+// (A1 A2 A3 A4 . . . . Ai) - We need Ai hence for this we use Max Heap
+// (Ai+1,Ai+2, . . . Ak) - We need Ai+1 hence for this we use Min Heap
 public class Find_Median_In_A_Stream {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
