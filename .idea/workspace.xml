@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Flood_Fill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/bfs_graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/dfs_graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Find_Whether_Path_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Number_Of_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Topological_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Unit_Area_of_largest_region_of_1_s.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,17 +47,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graphs/bfs_graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="380">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Find_Whether_Path_Exist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Topological_Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Unit_Area_of_largest_region_of_1_s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Number_Of_Islands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="817">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -76,10 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game.java" />
-        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game/Last_Turn_Winner_N_Coin_Game.java" />
-        <option value="$PROJECT_DIR$/src/Game_Theory/Last_Turn_Winner_N_Coin_Game.java" />
-        <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Losers.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Losers_Problem.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Keepers_Winners_Problem.java" />
@@ -127,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/Graphs/bfs_graph.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Possible_Paths.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Flood_Fill.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Find_Whether_Path_Exist.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Topological_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Unit_Area_of_largest_region_of_1_s.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Number_Of_Islands.java" />
       </list>
     </option>
   </component>
@@ -189,13 +229,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Possible_Paths">
-    <configuration name="Find_Median_In_A_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.Find_Median_In_A_Stream" />
+  <component name="RunManager" selected="Application.Number_Of_Islands">
+    <configuration name="Find_Whether_Path_Exist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Find_Whether_Path_Exist" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Geeks_For_Geeks_Important.*" />
+          <option name="PATTERN" value="Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number_Of_Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Number_Of_Islands" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,8 +269,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snake_And_Ladder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.Snake_And_Ladder" />
+    <configuration name="Topological_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Topological_Sort" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -229,21 +282,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bfs_graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.bfs_graph" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graphs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dfs_graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.dfs_graph" />
+    <configuration name="Unit_Area_of_largest_region_of_1_s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Unit_Area_of_largest_region_of_1_s" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -257,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_Of_Islands" />
+        <item itemvalue="Application.Unit_Area_of_largest_region_of_1_s" />
+        <item itemvalue="Application.Topological_Sort" />
+        <item itemvalue="Application.Find_Whether_Path_Exist" />
         <item itemvalue="Application.Possible_Paths" />
-        <item itemvalue="Application.bfs_graph" />
-        <item itemvalue="Application.dfs_graph" />
-        <item itemvalue="Application.Snake_And_Ladder" />
-        <item itemvalue="Application.Find_Median_In_A_Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -320,34 +360,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Winners_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_distinct_window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Longest_SubString_With_All_Unique_Characters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -645,17 +657,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphs/bfs_graph.java">
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="893">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Find_Whether_Path_Exist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="76">
+          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/bfs_graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Topological_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Unit_Area_of_largest_region_of_1_s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Number_Of_Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
         </state>
       </provider>
     </entry>
