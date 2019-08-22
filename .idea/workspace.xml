@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Flood_Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/bfs_graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/dfs_graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphs/Snake_And_Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Snake_And_Ladder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +19,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graphs/Snake_And_Ladder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="232">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/dfs_graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/bfs_graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -44,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_subsequences.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Arithematic_Progression.java" />
-        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java" />
-        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Prefix.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game/Last_Turn_Winner_N_Coin_Game.java" />
         <option value="$PROJECT_DIR$/src/Game_Theory/Last_Turn_Winner_N_Coin_Game.java" />
@@ -95,6 +123,10 @@
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Median.java" />
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Find_Median_In_A_Stream.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Snake_And_Ladder.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/dfs_graph.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/bfs_graph.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Possible_Paths.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Flood_Fill.java" />
       </list>
     </option>
   </component>
@@ -157,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Snake_And_Ladder">
+  <component name="RunManager" selected="Application.Possible_Paths">
     <configuration name="Find_Median_In_A_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.Find_Median_In_A_Stream" />
       <module name="CodingBlocks" />
@@ -171,25 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.Median" />
+    <configuration name="Possible_Paths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Possible_Paths" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Geeks_For_Geeks_Important.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Number_Following_a_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.Number_Following_a_Pattern" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Geeks_For_Geeks_Important.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +229,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bakc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks_And_Queues.bakc" />
+    <configuration name="bfs_graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.bfs_graph" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stacks_And_Queues.*" />
+          <option name="PATTERN" value="Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dfs_graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.dfs_graph" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Possible_Paths" />
+        <item itemvalue="Application.bfs_graph" />
+        <item itemvalue="Application.dfs_graph" />
         <item itemvalue="Application.Snake_And_Ladder" />
         <item itemvalue="Application.Find_Median_In_A_Stream" />
-        <item itemvalue="Application.Median" />
-        <item itemvalue="Application.Number_Following_a_Pattern" />
-        <item itemvalue="Application.bakc" />
       </list>
     </recent_temporary>
   </component>
@@ -259,8 +291,8 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2267525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2267525" />
+      <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2267525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -268,7 +300,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,19 +320,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Infix_To_Postfix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Finders_Keepers_Game.java" />
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Keepers_Losers.java" />
-    <entry file="file://$PROJECT_DIR$/src/Game_Theory/Keepers_Winners_Problem.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMaps_Sets/Check_If_Given_Sequence_Is_In_AP.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -598,11 +617,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graphs/Snake_And_Ladder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="232">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/dfs_graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Possible_Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/bfs_graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Flood_Fill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
