@@ -8,7 +8,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Scanner;
 class point{
     int x;
     int y;
