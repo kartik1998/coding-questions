@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,7 +16,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,9 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Aggressive_Cows.java" />
-        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Painters_Partition_Problem.java" />
-        <option value="$PROJECT_DIR$/src/Coding_Ninjas/Vanya_And_GCD.java" />
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Adjacent_Bit_Counts.java" />
         <option value="$PROJECT_DIR$/src/cook_off/Solution_1.java" />
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Roy_And_Coin_Boxes.java" />
@@ -72,7 +80,6 @@
         <option value="$PROJECT_DIR$/src/Coding_Ninjas/Sum_Of_Digits.java" />
         <option value="$PROJECT_DIR$/src/Graphs/Journey_To_The_Moon_HackerRank.java" />
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Evaluate_.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Palindrome_Partitioning.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Rocks_Scissors_Papers.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/LIS_NlogN.java" />
@@ -81,6 +88,10 @@
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Subsequence_Retaining_max_Len_Remove.java" />
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java" />
         <option value="$PROJECT_DIR$/src/Codeforces_579/D2.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java" />
+        <option value="$PROJECT_DIR$/src/Codechef.java" />
+        <option value="$PROJECT_DIR$/src/CodeChef/Distorted_Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java" />
       </list>
     </option>
   </component>
@@ -94,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,19 +122,12 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Geeks_For_Geeks_Important" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -149,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.D2">
+  <component name="RunManager" selected="Application.Minimum_Points_To_Reach_Destination">
     <configuration name="D2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces_579.D2" />
       <module name="CodingBlocks" />
@@ -176,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replacing_numbers_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Replacing_numbers_DP" />
+    <configuration name="Minimum_Points_To_Reach_Destination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Minimum_Points_To_Reach_Destination" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HackerEarth.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rocks_Scissors_Papers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Rocks_Scissors_Papers" />
+    <configuration name="Replacing_numbers_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Replacing_numbers_DP" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="HackerEarth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Points_To_Reach_Destination" />
         <item itemvalue="Application.D2" />
         <item itemvalue="Application.Subsequence_Retaining_max_Len_Remove" />
         <item itemvalue="Application.Evaluate_" />
         <item itemvalue="Application.Replacing_numbers_DP" />
-        <item itemvalue="Application.Rocks_Scissors_Papers" />
       </list>
     </recent_temporary>
   </component>
@@ -249,8 +254,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.25965664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.27038628" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2267525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +270,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27951807" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27951807" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -279,27 +285,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Coding_Ninjas/Adjacent_Bit_Counts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/bakc.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stacks_And_Queues/Asteroids_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Miscellaneous.java" />
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Median.java" />
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Number_Following_a_Pattern.java">
@@ -548,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Rocks_Scissors_Papers.java" />
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Book_Allocation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -590,16 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces_579/D2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codeforces_579/D2.java" />
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15">
@@ -624,6 +593,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="13" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codechef.java" />
+    <entry file="file://$PROJECT_DIR$/src/CodeChef/Distorted_Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
         </state>
       </provider>
     </entry>
