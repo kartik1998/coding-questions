@@ -2,17 +2,18 @@ package Dynamic_Programming;
 
 import java.util.Arrays;
 import java.util.Scanner;
-class pair implements Comparable<pair>{
-    int wd,ht;
-    pair(int x,int y){
-        this.wd=x;
-        this.ht=y;
-    }
-    public int compareTo(pair p){
-        return this.wd-p.wd;
-    }
-}
+
 public class Russian_Doll_Problem_LIS {
+    static class pair implements Comparable<pair>{
+        int wd,ht;
+        pair(int x,int y){
+            this.wd=x;
+            this.ht=y;
+        }
+        public int compareTo(pair p){
+            return this.wd-p.wd;
+        }
+    }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
