@@ -2,20 +2,21 @@ package Dynamic_Programming;
 
 import java.util.Arrays;
 import java.util.Scanner;
-class Triple implements Comparable<Triple>{
-    int h,w,l;
-    Triple(int h,int w,int l){
-        this.h=h;
-        this.w=w;
-        this.l=l;
-    }
-    public int compareTo(Triple p){
-        int a=this.w*this.l;
-        int b=p.w*p.l;
-        return b-a;
-    }
-}
+
 public class Box_Stacking_Problem {
+    static class Triple implements Comparable<Triple>{
+        int h,w,l;
+        Triple(int h,int w,int l){
+            this.h=h;
+            this.w=w;
+            this.l=l;
+        }
+        public int compareTo(Triple p){
+            int a=this.w*this.l;
+            int b=p.w*p.l;
+            return b-a;
+        }
+    }
     public static int maxHeight(int height[],int width[],int length[],int n){
         Triple A[]=new Triple[3*n];
         int k=0;

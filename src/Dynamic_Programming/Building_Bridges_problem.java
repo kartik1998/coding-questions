@@ -4,14 +4,15 @@ package Dynamic_Programming;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-class Pair {
-    int x,y;
-    Pair(int x,int y){
-        this.x=x;
-        this.y=y;
-    }
-}
+
 public class Building_Bridges_problem {
+    static class Pair {
+        int x,y;
+        Pair(int x,int y){
+            this.x=x;
+            this.y=y;
+        }
+    }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
