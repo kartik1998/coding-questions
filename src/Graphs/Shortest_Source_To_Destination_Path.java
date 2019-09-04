@@ -8,17 +8,18 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-class point{
-    int x;
-    int y;
-    int level;
-    point(int x,int y,int level){
-        this.x=x;
-        this.y=y;
-        this.level=level;
-    }
-}
+
 public class Shortest_Source_To_Destination_Path {
+    static class point{
+        int x;
+        int y;
+        int level;
+        point(int x,int y,int level){
+            this.x=x;
+            this.y=y;
+            this.level=level;
+        }
+    }
     public static boolean isSafe(int x,int y,int m,int n,int arr[][],boolean visited[][]){
         if(x>=0 && x<m && y>=0 && y<n && arr[x][y]==1 && visited[x][y]==false){
             return true;

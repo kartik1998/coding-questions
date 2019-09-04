@@ -3,14 +3,14 @@ package Graphs;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-class Pair{
-    int x,y;
-    Pair(int x,int y){
-        this.x=x;
-        this.y=y;
-    }
-}
 public class Snake_And_Ladder {
+    static class Pair{
+        int x,y;
+        Pair(int x,int y){
+            this.x=x;
+            this.y=y;
+        }
+    }
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
