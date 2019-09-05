@@ -11,17 +11,17 @@ public class Search_in_Sorted_rotated_Array {
         if(A[mid]==x){
             return mid;
         }else{
-            if(x>=A[s]){
-                if(A[mid]<A[s] || A[mid]>x){
-                    return helper(A,x,s,mid-1);
-                }else{
+            if(x<=A[e]){
+                if(A[mid]<x || A[mid]>A[e]){
                     return helper(A,x,mid+1,e);
+                }else{
+                    return helper(A,x,s,mid-1);
                 }
             }else{
-                if(A[mid]>A[s] || A[mid]<x){
-                    return helper(A,x,mid+1,e);
-                }else{
+                if(A[mid]>x || A[mid]<A[s]){
                     return helper(A,x,s,mid-1);
+                }else{
+                    return helper(A,x,mid+1,e);
                 }
             }
         }

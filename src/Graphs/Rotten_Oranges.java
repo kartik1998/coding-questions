@@ -5,6 +5,13 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class Rotten_Oranges {
+    static class Pair{
+        int x,y;
+        Pair(int x,int y){
+            this.x=x;
+            this.y=y;
+        }
+    }
     static int dx[]={0,0,1,-1};
     static int dy[]={1,-1,0,0};
     public static boolean isSafe(int x,int y,int n,int m,int A[][]){
