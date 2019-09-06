@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Equal_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/MI_vs_CSK_And_Pearls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Maximum_Profit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Once_upon_a_time_in_TimeLand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/X_Square_and_Two_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Xsquare_And_Coin_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphs/Rotten_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Rotten_Oranges.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,19 +20,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="95">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="114">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/X_Square_and_Two_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
+            <state relative-caret-position="570">
               <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
@@ -72,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/Once_upon_a_time_in_TimeLand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="95">
               <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
@@ -82,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/Xsquare_And_Coin_Collection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -91,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/Equal_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -100,16 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Pivot_Of_Sorted_Rotated_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Stock_Sell_Problems/Stock_Sell_With_Infinite_Transactions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -129,10 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Codeforces_579/D2.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_Sum_Rectangle_In_2D_SubArray.java" />
-        <option value="$PROJECT_DIR$/src/Codechef.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/Distorted_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/min_Jumps_Array.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Ways_To_Decode.java" />
@@ -180,11 +174,15 @@
         <option value="$PROJECT_DIR$/src/HackerEarth/Equal_Array.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Pivot_Of_Sorted_Rotated_Array.java" />
         <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Gold_Mines.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -211,7 +209,7 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,9 +240,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Search_in_Sorted_rotated_Array">
-    <configuration name="Equal_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Equal_Array" />
+  <component name="RunManager" selected="Application.Sell_Computers">
+    <configuration name="Gold_Mines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Gold_Mines" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -256,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MI_vs_CSK_And_Pearls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.MI_vs_CSK_And_Pearls" />
+    <configuration name="K_Cut_And_Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.K_Cut_And_Product" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -269,8 +267,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Once_upon_a_time_in_TimeLand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Once_upon_a_time_in_TimeLand" />
+    <configuration name="Palindrome_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Palindrome_Count" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -295,8 +293,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X_Square_and_Two_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.X_Square_and_Two_Arrays" />
+    <configuration name="Sell_Computers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Sell_Computers" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -310,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sell_Computers" />
+        <item itemvalue="Application.K_Cut_And_Product" />
+        <item itemvalue="Application.Palindrome_Count" />
+        <item itemvalue="Application.Gold_Mines" />
         <item itemvalue="Application.Search_in_Sorted_rotated_Array" />
-        <item itemvalue="Application.Equal_Array" />
-        <item itemvalue="Application.Once_upon_a_time_in_TimeLand" />
-        <item itemvalue="Application.MI_vs_CSK_And_Pearls" />
-        <item itemvalue="Application.X_Square_and_Two_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -341,10 +339,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.29685265" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.30114448" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2267525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,31 +371,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Unit_Area_Of_Largest_Area_Of_Ones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/tryc.java" />
-    <entry file="file://$PROJECT_DIR$/src/AMCAT/Max_Distance_Travelled_By_Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AMCAT/flip_bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AMCAT/Min_Insertions_To_Make_A_String_A_Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -621,6 +594,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Gold_Mines.java" />
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/Maximum_Profit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -630,7 +618,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/X_Square_and_Two_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
+        <state relative-caret-position="570">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
@@ -644,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/Once_upon_a_time_in_TimeLand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="95">
           <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
@@ -652,28 +640,38 @@
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/Xsquare_And_Coin_Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/Equal_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Pivot_Of_Sorted_Rotated_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Search_in_Sorted_rotated_Array.java">
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="646">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
