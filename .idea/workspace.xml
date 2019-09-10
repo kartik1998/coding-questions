@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef/September_Long/CHEFINSQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChef/September_Long/FIBEASY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Cutted_Segments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Max_sum_subarray_by_removing_at_most_one_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Modify_array_to_maximize_sum_of_adjacent_differences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,28 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,64 +38,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Maximum_Profit.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="342">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/X_Square_and_Two_Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/MI_vs_CSK_And_Pearls.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Modify_array_to_maximize_sum_of_adjacent_differences.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodeChef/September_Long/FIBEASY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodeChef/September_Long/CHEFINSQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Cutted_Segments.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Once_upon_a_time_in_TimeLand.java">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_sum_subarray_by_removing_at_most_one_element.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Xsquare_And_Coin_Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Equal_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Pivot_Of_Sorted_Rotated_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="703">
+              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -127,17 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Points_To_Reach_Destination.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/min_Jumps_Array.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Ways_To_Decode.java" />
-        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Next_Permutation.java" />
-        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Gray_Code.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Balloon_Burst_Problem.java" />
-        <option value="$PROJECT_DIR$/src/Graphs/Unit_Area_Of_Largest_Area_Of_Ones.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/COKE2.java" />
-        <option value="$PROJECT_DIR$/src/AMCAT/flip_bits.java" />
-        <option value="$PROJECT_DIR$/src/AMCAT/Min_Insertions_To_Make_A_String_A_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/AMCAT/Number_Of_Paths_From_Top_To_bottom_right_Cell.java" />
         <option value="$PROJECT_DIR$/src/AMCAT/Max_Distance_Travelled_By_Bus.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/tryc.java" />
@@ -178,11 +176,22 @@
         <option value="$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/K_Cut_And_Product.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Modify_array_to_maximize_sum_of_adjacent_differences.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Pyramid_form.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java" />
+        <option value="$PROJECT_DIR$/src/CodeChef/September_Long/FIBEASY.java" />
+        <option value="$PROJECT_DIR$/src/CodeChef/September_Long/CHEFINSQ.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Cutted_Segments.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Max_sum_subarray_by_removing_at_most_one_element.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Charged_Up_Array.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -192,7 +201,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,12 +217,19 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,9 +255,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sell_Computers">
-    <configuration name="Gold_Mines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Gold_Mines" />
+  <component name="RunManager" selected="Application.Charged_Up_Array">
+    <configuration name="CHEFINSQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeChef.September_Long.CHEFINSQ" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeChef.September_Long.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Charged_Up_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Charged_Up_Array" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -254,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K_Cut_And_Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.K_Cut_And_Product" />
+    <configuration name="Minimum_cost_to_fill_given_weight_in_a_bag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Minimum_cost_to_fill_given_weight_in_a_bag" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HackerEarth.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Palindrome_Count" />
+    <configuration name="Modify_array_to_maximize_sum_of_adjacent_differences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Modify_array_to_maximize_sum_of_adjacent_differences" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HackerEarth.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,21 +308,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_in_Sorted_rotated_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Search_in_Sorted_rotated_Array" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Divide_And_Conquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sell_Computers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerEarth.Sell_Computers" />
+    <configuration name="Monk_And_Power_Of_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.Monk_And_Power_Of_Time" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -308,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sell_Computers" />
-        <item itemvalue="Application.K_Cut_And_Product" />
-        <item itemvalue="Application.Palindrome_Count" />
-        <item itemvalue="Application.Gold_Mines" />
-        <item itemvalue="Application.Search_in_Sorted_rotated_Array" />
+        <item itemvalue="Application.Charged_Up_Array" />
+        <item itemvalue="Application.Monk_And_Power_Of_Time" />
+        <item itemvalue="Application.CHEFINSQ" />
+        <item itemvalue="Application.Minimum_cost_to_fill_given_weight_in_a_bag" />
+        <item itemvalue="Application.Modify_array_to_maximize_sum_of_adjacent_differences" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +357,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.30114448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.30543634" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2267525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,7 +366,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,65 +386,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AMCAT/Min_Insertions_To_Make_A_String_A_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AMCAT/Number_Of_Paths_From_Top_To_bottom_right_Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Unbounded_Knapsack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Sherlock_And_Cost_hackerrank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Sam_And_Substrings_HackerRank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Binary_Strings_With_no_consecutive_Zeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/count_Arrays_HAckerrank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graphs/Topological_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Transform_String.java" />
-    <entry file="file://$PROJECT_DIR$/src/AMCAT/fdg.java" />
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/GPA_Calculator.java" />
     <entry file="file://$PROJECT_DIR$/src/BackTracking/CrossWord_Puzzle_HackerRank.java" />
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Find_minimum_shift_for_longest_common_prefix.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -665,13 +621,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Pyramid_form.java" />
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Charged_Up_Array.java" />
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Modify_array_to_maximize_sum_of_adjacent_differences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeChef/September_Long/FIBEASY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeChef/September_Long/CHEFINSQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Cutted_Segments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Max_sum_subarray_by_removing_at_most_one_element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
