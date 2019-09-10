@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeChef/September_Long/CHEFINSQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeChef/September_Long/FIBEASY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Cutted_Segments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Max_sum_subarray_by_removing_at_most_one_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_cost_to_fill_given_weight_in_a_bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Modify_array_to_maximize_sum_of_adjacent_differences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Largest_Independent_Set_Problem_DP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Sell_Computers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HackerEarth/Vaishu_And_Tower_Arrangements.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,11 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Largest_Independent_Set_Problem_DP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AMCAT/Number_Of_Paths_From_Top_To_bottom_right_Cell.java" />
         <option value="$PROJECT_DIR$/src/AMCAT/Max_Distance_Travelled_By_Bus.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/tryc.java" />
         <option value="$PROJECT_DIR$/src/HackerRank/Equal.java" />
@@ -187,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/HackerEarth/Monk_And_Power_Of_Time.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/Charged_Up_Array.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Largest_Independent_Set_Problem_DP.java" />
       </list>
     </option>
   </component>
@@ -218,12 +211,6 @@
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,7 +358,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27951807" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27951807" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -386,7 +373,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/CrossWord_Puzzle_HackerRank.java" />
     <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Find_minimum_shift_for_longest_common_prefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -694,8 +680,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Largest_Independent_Set_Problem_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
