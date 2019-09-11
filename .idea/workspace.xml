@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Maximum_difference_of_zeros_and_ones_in_binary_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_Number_Of_Deletions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Minimum_steps_to_minimize_n_as_per_given_condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Sum_Of_Average_Of_All_Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Ways_to_sum_To_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/First_negative_integer_in_every_window_of_size_k.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Distance_Of_Nearest_Cell_Having_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks_And_Queues/Smallest_number_on_left.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/Killing_Spree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,31 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Largest_Independent_Set_Problem_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graphs/Distance_Of_Nearest_Cell_Having_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Minimum_steps_to_minimize_n_as_per_given_condition.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,11 +92,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Pizza_Mania.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Killing_Spree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Mike_And_Photographic_Memory.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -148,8 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Transform_String.java" />
-        <option value="$PROJECT_DIR$/src/AMCAT/fdg.java" />
         <option value="$PROJECT_DIR$/src/CodeChef/GPA_Calculator.java" />
         <option value="$PROJECT_DIR$/src/BackTracking/CrossWord_Puzzle_HackerRank.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/The_Indian_Job_HackerRank.java" />
@@ -199,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Sum_Of_Average_Of_All_Subsets.java" />
         <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Smallest_number_on_left.java" />
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/First_negative_integer_in_every_window_of_size_k.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Pizza_Mania.java" />
+        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Killing_Spree.java" />
       </list>
     </option>
   </component>
@@ -261,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.First_negative_integer_in_every_window_of_size_k">
+  <component name="RunManager" selected="Application.Mike_And_Photographic_Memory">
     <configuration name="First_negative_integer_in_every_window_of_size_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.First_negative_integer_in_every_window_of_size_k" />
       <module name="CodingBlocks" />
@@ -275,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_difference_of_zeros_and_ones_in_binary_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Maximum_difference_of_zeros_and_ones_in_binary_string" />
+    <configuration name="Killing_Spree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.Killing_Spree" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Divide_And_Conquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_distinct_elements_after_removing_K_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geeks_For_Geeks_Important.Maximum_distinct_elements_after_removing_K_elements" />
+    <configuration name="Mike_And_Photographic_Memory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Mike_And_Photographic_Memory" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Geeks_For_Geeks_Important.*" />
+          <option name="PATTERN" value="Dynamic_Programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mike_And_Photographic_Memory" />
+        <item itemvalue="Application.Killing_Spree" />
         <item itemvalue="Application.First_negative_integer_in_every_window_of_size_k" />
         <item itemvalue="Application.Smallest_number_on_left" />
         <item itemvalue="Application.Sum_Of_Average_Of_All_Subsets" />
-        <item itemvalue="Application.Maximum_distinct_elements_after_removing_K_elements" />
-        <item itemvalue="Application.Maximum_difference_of_zeros_and_ones_in_binary_string" />
       </list>
     </recent_temporary>
   </component>
@@ -392,8 +381,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BackTracking.java" />
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/Array_All_Subarrays.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Candies_Counting_HackerRank.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Russian_Doll_Problem_LIS.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -725,8 +712,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Pizza_Mania.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Killing_Spree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Mike_And_Photographic_Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
