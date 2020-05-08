@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dff8f84-ebfe-4419-a83c-1c768cd6fafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeChef/MARM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeChef/S10E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeChef/SAKTAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_Substrings_LeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Counting_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Integer_Break_Leetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Perfect_Squares_LeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/isSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Number_Of_Matching_Subsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Contests/Stepping_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/Sliding_Window_Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMCAT/Smallest_Permutation_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Largest_Sum_Of_Averages_Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Common_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Selecting_Articles_Maximizing_Cost_Under_Budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Split_Strings_Into_Balanced_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Google/KickStart_Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Google_KickStart/Wiggle_Walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Possible_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Avoid_traps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/ChessBoard_and_moves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Dividing_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerEarth/Field_Of_Dreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Longest_String_Chain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphs/Topological_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Topological_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/Equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/Equal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,19 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_Contests/Stepping_Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Dividing_Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Perfect_Squares_LeetCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,68 +49,89 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Counting_Bits.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/ChessBoard_and_moves.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="1577">
+              <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Integer_Break_Leetcode.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Field_Of_Dreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/isSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="627">
+              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
               <folding>
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
+                <element signature="method#clear#0;class#Field_Of_Dreams#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Number_Of_Matching_Subsequences.java">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/flip_bits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-              <folding>
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_Substrings_LeetCode.java">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/Max_Distance_Travelled_By_Bus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="171">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/Number_Of_Paths_From_Top_To_bottom_right_Cell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/Longest_String_Chain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/LRUCache.java">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/Sliding_Window_Key.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/Smallest_Permutation_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AMCAT/Min_Insertions_To_Make_A_String_A_Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -130,33 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Maximum_difference_of_zeros_and_ones_in_binary_string.java" />
-        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Maximum_distinct_elements_after_removing_K_elements.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Sum_Of_Average_Of_All_Subsets.java" />
-        <option value="$PROJECT_DIR$/src/Stacks_And_Queues/Smallest_number_on_left.java" />
-        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/First_negative_integer_in_every_window_of_size_k.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Pizza_Mania.java" />
-        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Killing_Spree.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Mike_And_Photographic_Memory.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Generate_Parenthesis.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Temple_Offerings.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/House_Robber_2_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Dungeon_Game_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Maximal_Square_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Distinct_SubSequences_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Partition_Equal_SubSet_Sum_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode_MIscellaneous/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/NOMATCH.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/CSUM.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/CHFAR.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/CNDLOVE.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Asteroid_Collision.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/H1.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/REDONE.java" />
-        <option value="$PROJECT_DIR$/src/CodeChef/CHEFSTLT.java" />
-        <option value="$PROJECT_DIR$/src/Divide_And_Conquer/Maximum_Value_In_A_Bitonic_Subarray.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Complete_The_Projects.java" />
-        <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Check_Palindromic_Ignoring_Spaces.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Factorial.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/prime_Arrangements.java" />
         <option value="$PROJECT_DIR$/src/Geeks_For_Geeks_Important/String_Sort.java" />
@@ -181,6 +175,33 @@
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_Substrings.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_Substrings_LeetCode.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Split_Strings_Into_Balanced_Strings.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Largest_Sum_Of_Averages_Leetcode.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Longest_Common_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/Selecting_Articles_Maximizing_Cost_Under_Budget.java" />
+        <option value="$PROJECT_DIR$/src/Google/KickStart_Alarm.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/CodeForces/Seven_thirty_five_C.java" />
+        <option value="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/A.java" />
+        <option value="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/B.java" />
+        <option value="$PROJECT_DIR$/src/Google_KickStart/Wiggle_Walk.java" />
+        <option value="$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/D.java" />
+        <option value="$PROJECT_DIR$/src/Tanmay_Assignments/String_Search.java" />
+        <option value="$PROJECT_DIR$/src/Tanmay_Assignments/Col_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Possible_Paths.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Topological_Sort.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/Equal.java" />
+        <option value="$PROJECT_DIR$/src/CodeForces/Mind_Control.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Avoid_traps.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Dividing_Strings.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/ChessBoard_and_moves.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/Field_Of_Dreams.java" />
+        <option value="$PROJECT_DIR$/src/TDG_Q1.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Longest_String_Chain.java" />
+        <option value="$PROJECT_DIR$/src/Codejam/ONE_B_EXPOGO.java" />
+        <option value="$PROJECT_DIR$/src/CodeChef/LIFTME.java" />
+        <option value="$PROJECT_DIR$/src/AMCAT/Sliding_Window_Key.java" />
+        <option value="$PROJECT_DIR$/src/AMCAT/Smallest_Permutation_Number.java" />
       </list>
     </option>
   </component>
@@ -194,8 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +233,7 @@
               <item name="CodingBlocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingBlocks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="AMCAT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,35 +264,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Integer_Break_Leetcode">
-    <configuration name="Integer_Break_Leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Integer_Break_Leetcode" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Perfect_Squares_LeetCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.Perfect_Squares_LeetCode" />
-      <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S10E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeChef.S10E" />
+  <component name="RunManager" selected="Application.Smallest_Permutation_Number">
+    <configuration name="LIFTME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeChef.LIFTME" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
@@ -283,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SAKTAN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeChef.SAKTAN" />
+    <configuration name="Longest_String_Chain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Longest_String_Chain" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeChef.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +291,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stepping_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Contests.Stepping_Numbers" />
+    <configuration name="ONE_B_EXPOGO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codejam.ONE_B_EXPOGO" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Contests.*" />
+          <option name="PATTERN" value="Codejam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sliding_Window_Key" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMCAT.Sliding_Window_Key" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AMCAT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smallest_Permutation_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMCAT.Smallest_Permutation_Number" />
+      <module name="CodingBlocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AMCAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Integer_Break_Leetcode" />
-        <item itemvalue="Application.Perfect_Squares_LeetCode" />
-        <item itemvalue="Application.Stepping_Numbers" />
-        <item itemvalue="Application.SAKTAN" />
-        <item itemvalue="Application.S10E" />
+        <item itemvalue="Application.Smallest_Permutation_Number" />
+        <item itemvalue="Application.Sliding_Window_Key" />
+        <item itemvalue="Application.LIFTME" />
+        <item itemvalue="Application.ONE_B_EXPOGO" />
+        <item itemvalue="Application.Longest_String_Chain" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +366,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.38054362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.3040057" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2267525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,8 +374,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2807229" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,258 +395,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Palindrome_Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerRank/Equal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/fairCut_HackerRank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode_MIscellaneous.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/letter_Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Maximum_Sum_Subsequence_without_Adjacent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Min_Deletions_To_sort_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Temple_Offerings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/House_Robber_2_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Dungeon_Game_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/H1.java" />
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/REDONE.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Maximal_Square_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Distinct_SubSequences_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Partition_Equal_SubSet_Sum_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/NOMATCH.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="5" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/CSUM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="41" column="1" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/CHFAR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/CNDLOVE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Asteroid_Collision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/CHEFSTLT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Divide_And_Conquer/Maximum_Value_In_A_Bitonic_Subarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Random.java" />
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Complete_The_Projects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#1585#1586#0" expanded="true" />
-            <element signature="e#1633#1634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/PAIRSUM2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Check_Palindromic_Ignoring_Spaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/prime_Arrangements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/CATFEED.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/ALLSUB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeChef/WATCHFB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Smallest_Window_In_A_String_Containing_All_Characters_Of_Another_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/String_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Geeks_For_Geeks_Important/Longest_K_unique_characters_substring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodeChef/SAKTAN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -636,9 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode_Contests.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode_Contests.java" />
     <entry file="file://$PROJECT_DIR$/src/CodeChef/MARM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -683,15 +450,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode_Contests/Stepping_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="532">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Perfect_Squares_LeetCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="95">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -700,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Counting_Bits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="418">
           <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
         </state>
       </provider>
@@ -715,7 +482,7 @@
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/isSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#425#426#0" expanded="true" />
             <element signature="e#480#481#0" expanded="true" />
@@ -725,15 +492,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Number_Of_Matching_Subsequences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="399">
           <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-          <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Seven_thirty_five_C.java" />
     <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Count_Palindromic_Substrings_LeetCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -741,15 +505,216 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="228">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google_KickStart.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Split_Strings_Into_Balanced_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Largest_Sum_Of_Averages_Leetcode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Longest_Common_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/Selecting_Articles_Maximizing_Cost_Under_Budget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/KickStart_Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Dijkstras_Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Five_Ninety_Eight/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google_KickStart/Wiggle_Walk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tanmay_Assignments/Col_Sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tanmay_Assignments/String_Search.java" />
+    <entry file="file://$PROJECT_DIR$/src/CodeForces/Mind_Control.java" />
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Possible_Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Topological_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TDG_Q1.java" />
+    <entry file="file://$PROJECT_DIR$/src/HackerRank/Equal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codejam.java" />
+    <entry file="file://$PROJECT_DIR$/src/Codejam/ONE_B_EXPOGO.java" />
+    <entry file="file://$PROJECT_DIR$/src/CodeChef/LIFTME.java" />
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Avoid_traps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Dividing_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/ChessBoard_and_moves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Field_Of_Dreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <element signature="method#clear#0;class#Field_Of_Dreams#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/flip_bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/Max_Distance_Travelled_By_Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/Number_Of_Paths_From_Top_To_bottom_right_Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Longest_String_Chain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/Min_Insertions_To_Make_A_String_A_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/Smallest_Permutation_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMCAT/Sliding_Window_Key.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
         </state>
       </provider>
     </entry>

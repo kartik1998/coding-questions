@@ -38,6 +38,7 @@ public class Equal {
                 max=Math.max(minSteps(A[i],dp),max);
             }
             System.out.println(max);
+            int a = 0,b=0;
         }
     }
 }

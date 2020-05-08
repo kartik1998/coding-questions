@@ -38,8 +38,8 @@ public class Topological_Sort {
                     dfs(adj,i,visited,s);
                 }
             }
-            while(!s.isEmpty()){
-                System.out.print(s.pop()+" ");
+            while(!s.isEmpty()) {
+                System.out.print(s.pop() + " ");
             }
         }
     }
