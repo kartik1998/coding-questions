@@ -1,4 +1,3 @@
 package GFG_practise;
 
-public class LeadersInArray {
-}
+public class LeadersInArray {}

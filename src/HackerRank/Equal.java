@@ -11,34 +11,43 @@ import java.util.Scanner;
 //Given a starting distribution, calculate the minimum number of operations needed so that every colleague has
 // the same number of chocolates.
 public class Equal {
-    public static int minSteps(int n,Integer dp[]){
-        if(n==0){
-            return dp[n]=0;
-        }
-        if(n<0){
-            return Integer.MAX_VALUE;
-        }
-        if(dp[n]!=null){
-            return dp[n];
-        }
-        return dp[n]=Math.min(minSteps(n-1,dp),Math.min(minSteps(n-2,dp),minSteps(n-5,dp)))+1;
+
+  public static int minSteps(int n, Integer dp[]) {
+    if (n == 0) {
+      return dp[n] = 0;
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t=sc.nextInt();
-        while(t-->0){
-            int n=sc.nextInt();
-            int A[]=new int[n];
-            for(int i=0;i<n;i++){
-                A[i]=sc.nextInt();
-            }
-            int max=0;
-            for(int i=0;i<n;i++){
-                Integer dp[]=new Integer[A[i]+1];
-                max=Math.max(minSteps(A[i],dp),max);
-            }
-            System.out.println(max);
-            int a = 0,b=0;
-        }
+    if (n < 0) {
+      return Integer.MAX_VALUE;
     }
+    if (dp[n] != null) {
+      return dp[n];
+    }
+    return (
+      dp[n] =
+        Math.min(
+          minSteps(n - 1, dp),
+          Math.min(minSteps(n - 2, dp), minSteps(n - 5, dp))
+        ) +
+        1
+    );
+  }
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int t = sc.nextInt();
+    while (t-- > 0) {
+      int n = sc.nextInt();
+      int A[] = new int[n];
+      for (int i = 0; i < n; i++) {
+        A[i] = sc.nextInt();
+      }
+      int max = 0;
+      for (int i = 0; i < n; i++) {
+        Integer dp[] = new Integer[A[i] + 1];
+        max = Math.max(minSteps(A[i], dp), max);
+      }
+      System.out.println(max);
+      int a = 0, b = 0;
+    }
+  }
 }
