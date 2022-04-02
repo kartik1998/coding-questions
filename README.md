@@ -1,6 +1,5 @@
-# coding-questions
- A wide range of Dynamic programming questions from geeksforgeeks, leetcode and interviewbit covered.
- 
+### coding-questions
+
  ###### Leetcode Top 75 questions [link](https://leetcode.com/list/xoqag3yj)
  ###### Dynamic programming important questions [link1](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns/544912) , [link2](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
  
